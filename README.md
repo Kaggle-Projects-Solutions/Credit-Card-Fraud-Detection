@@ -1,1 +1,1 @@
-# Credt Card - Fraud Detection <br><br/>
+# Credit Card - Fraud Detection <br><br/>
